@@ -1,2 +1,2 @@
 # CSharpProjects
-Few small projects to learn and improve at C#
+Few small projects to learn and improve my skills with C#
