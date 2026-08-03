@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
@@ -59,3 +59,16 @@ namespace Arrays_Practice_2
                 Console.WriteLine("Tek sayıların toplamı daha büyük");
             }
             Console.ReadLine();
+
+
+
+            
+            
+
+           
+
+
+
+        }
+    }
+}
