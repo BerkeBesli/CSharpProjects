@@ -28,7 +28,7 @@ namespace Training____
             naberimsi1.adamlar();      //bu şekilde class içinde tanımladığımız methodlara erişebiliriz ve kullanabiliriz
             naberimsi1.minikler();     //bu şekilde method çağırıldığında, kod bu classtan naberclass'a geçip ordaki methodu çalıştırır ve burada kullanır
 
-            Console.WriteLine("Karakter yoksunu : " + naberimsi1.laynlar);  
+            Console.WriteLine("Adam gibi adam : " + naberimsi1.laynlar);  
             Console.WriteLine("Küçük minik : " + naberimsi1.naberimsiler);    //sadece naberimsiler yazınca değişken görülmez, obje (referans) üzerinden erişilebilir
             Console.ReadLine();
         }
