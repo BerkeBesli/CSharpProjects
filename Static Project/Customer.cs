@@ -10,6 +10,7 @@ namespace Static_3
     {
         // public int id;                 static classların içinde static olmayan bir şey tanımlanamaz, tanımlanmaya çalıştığında hata verir
         public static int id;
+        public static float height;
         // public void methodumsu();      bu şekilde method tanımlanmaya çalışıldığında da hata verir
         public static void methodumsu()
         {
